@@ -1,4 +1,4 @@
-package com.Fixtar.springboot.web.domain.posts;
+package com.Fixtar.springboot.domain.posts;
 
 import com.fixtar.springboot.domain.posts.Posts;
 import com.fixtar.springboot.domain.posts.PostsRepository;
