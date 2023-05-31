@@ -5,7 +5,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.0.12.RELEASE'
 }
 
-group 'org.example'
+group 'com.Fixtar'
 version '1.0-SNAPSHOT'
 
 repositories {
