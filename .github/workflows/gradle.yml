@@ -20,6 +20,7 @@ env:
   S3_BUKET_NAME: seongha-spring
   CODE_DEPLOY_APP_NAME: spring-aws
   CODE_DEPLOY_GROUP_NAME: seongha-group
+  PROJECT_NAME: spring-deploy
 
 jobs:
   build:
