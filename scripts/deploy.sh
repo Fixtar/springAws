@@ -28,4 +28,4 @@ echo "> $JAR_NAME 에 실행권한 추가"
 chmod +x $JAR_NAME
 
 echo "> $JAR_NAME 실행"
-nohup java -jar springAws-1.0-SNAPSHOT.jar
+sudo -E nohup java -jar springAws-1.0-SNAPSHOT.jar &
